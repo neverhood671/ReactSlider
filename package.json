@@ -2,7 +2,7 @@
   "name": "slider",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://neverhood671.github.io/ReactSlider.io/"
+  "homepage": "https://neverhood671.github.io/ReactSlider.io/",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
